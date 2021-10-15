@@ -31,7 +31,7 @@ Go to the project directory
 
 ## Observable Trends
 
->### My 3 Observations
+### My 3 Observations
 
 - Males had the highest purchase count, however, females had the highest average total purchase per person
 
