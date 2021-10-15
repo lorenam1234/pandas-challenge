@@ -9,7 +9,7 @@ Option 1: Heroes of Pymoli
 
 ## Dependencies
 
-  ```
+```bash
   import os
   import pandas as pd
   file_to_load = "Resources/purchase_data.csv"
@@ -31,10 +31,12 @@ Go to the project directory
 
 ## Observable Trends
 
-###
+>### My 3 Observations
 
-  >>1). Males had the highest purchase count, however, females had the highest average total purchase per person
+- Males had the highest purchase count, however, females had the highest average total purchase per person
 
-  >>2). Age range 20-24 had the highest purchase count, however, age range 35-39 had the highest average total purchase per person
+- Age range 20-24 had the highest purchase count, however, age range 35-39 had the highest average total purchase per person
 
-  >>3). The most popular item is also the most profitable item
+- The most popular item is also the most profitable item
+
+[EOF]
