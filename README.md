@@ -38,5 +38,3 @@ Go to the project directory
 - Age range 20-24 had the highest purchase count, however, age range 35-39 had the highest average total purchase per person
 
 - The most popular item is also the most profitable item
-
-[EOF]
