@@ -12,7 +12,7 @@ Option 1: Heroes of Pymoli
 ```bash
   import os
   import pandas as pd
-  file_to_load = "Resources/purchase_data.csv"
+  file_to_load = "../Resources/purchase_data.csv"
 ```
 
 ## Run Locally
